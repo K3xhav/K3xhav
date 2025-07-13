@@ -17,7 +17,7 @@ A comprehensive data science project analyzing the famous Iris dataset:
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-[View Project Files →](./)
+[📁 View Project Repository →](https://github.com/K3xhav/iris-dataset-analysis)
 
 ## Technical Skills
 - **Languages:** Python, JavaScript, HTML/CSS
