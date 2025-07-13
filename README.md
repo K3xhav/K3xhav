@@ -2,7 +2,6 @@
 
 ## About Me
 - 🔬 Data Scientist passionate about machine learning and analytics
-- 💻 Full-stack developer with expertise in Python, web development
 - 📊 Currently exploring advanced ML techniques and data visualization
 - 🌱 Always learning new technologies and methodologies
 - 📫 Reach me at: keshavthakur8055@gmail.com
