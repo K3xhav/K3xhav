@@ -8,16 +8,7 @@
 
 ## Featured Projects
 
-### 🌸 Iris Dataset Analysis
-A comprehensive data science project analyzing the famous Iris dataset:
-- **Exploratory Data Analysis** with beautiful visualizations
-- **Machine Learning** classification using Random Forest
-- **Data Visualization** with Matplotlib and Seaborn
-- **Professional Documentation** and code structure
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-
-[📁 View Project Repository →](https://github.com/K3xhav/iris-dataset-analysis)
+🚀 **Coming Soon!** I'm working on exciting data science and development projects that will be showcased here.
 
 ## Technical Skills
 - **Languages:** Python, JavaScript, HTML/CSS
