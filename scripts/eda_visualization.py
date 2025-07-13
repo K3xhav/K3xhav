@@ -52,11 +52,11 @@ def create_visualizations(df):
     axes[1, 1].tick_params(axis='x', rotation=45)
     
     plt.tight_layout()
-    plt.savefig('iris_analysis.png', dpi=300, bbox_inches='tight')
+    plt.savefig('outputs/iris_analysis.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 if __name__ == "__main__":
     df = load_iris_data()
     display_basic_stats(df)
     create_visualizations(df)
-    print("\nAnalysis complete! Check iris_analysis.png for visualizations.")
+    print("\nAnalysis complete! Check outputs/iris_analysis.png for visualizations.")

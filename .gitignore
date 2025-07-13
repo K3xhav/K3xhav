@@ -43,9 +43,14 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Generated files
+# Generated files (but allow outputs folder)
 *.png
 *.jpg
 *.jpeg
 *.gif
 *.pdf
+
+# Allow visualization outputs
+!outputs/*.png
+!outputs/*.jpg
+!outputs/*.jpeg
