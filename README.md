@@ -18,7 +18,6 @@
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/k3xhav)
-- 🐦 [Twitter](https://twitter.com/K3xhav)
 - 📧 Email: keshavthakur8055@gmail.com
 
 ---
