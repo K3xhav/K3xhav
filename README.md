@@ -39,4 +39,5 @@ https://github.com/K3xhav/Music-sync-V-1
 ## Contact
 
 LinkedIn: https://linkedin.com/in/k3xhav
+
 Email: keshavthakur8055@gmail.com
