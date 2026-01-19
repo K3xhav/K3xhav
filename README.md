@@ -1,25 +1,42 @@
-# Hi, I'm Keshav! 👋
+# Keshav — Junior Data Engineer
 
-## About Me
-- 🔬 Data Scientist passionate about machine learning and analytics
-- 📊 Currently exploring advanced ML techniques and data visualization
-- 🌱 Always learning new technologies and methodologies
-- 📫 Reach me at: keshavthakur8055@gmail.com
+Computer Science undergraduate focused on building data pipelines, streaming systems, and analytics platforms using Python and SQL.
 
-## Featured Projects
+Primary interests:
+- Batch and streaming data pipelines
+- Data modeling and reliability
+- System design and trade-offs
+- Reproducible engineering workflows
 
-🚀 **Coming Soon!** I'm working on exciting data science and development projects that will be showcased here.
-
-## Technical Skills
-- **Languages:** Python, JavaScript, HTML/CSS
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Machine Learning:** Classification, Regression, Data Preprocessing
-- **Tools:** Git, Jupyter Notebooks, VS Code
-
-## Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/k3xhav)
-- 📧 Email: keshavthakur8055@gmail.com
+Currently preparing for junior data engineering roles.
 
 ---
 
-*This repository showcases my journey in data science and full-stack development. Feel free to explore my projects and reach out for collaborations!*
+## Core Skills
+
+Languages: Python, SQL, C++  
+Data Engineering: Kafka, Spark, Airflow (local), dbt, ELT pipelines  
+Databases: BigQuery, PostgreSQL, Cassandra, SQLite  
+Cloud & Infra: GCP (GCS, BigQuery), Docker, Terraform (exposure)  
+Tools: Git, Linux, Bash  
+Concepts: Data modeling, idempotency, partitioning, schema design, fault tolerance  
+
+---
+
+## Featured Projects
+
+news-recommendation-data-platform  
+https://github.com/K3xhav/news-recommendation-data-platform
+
+scalable-event-streaming-analytics-platform  
+https://github.com/K3xhav/scalable-event-streaming-analytics-platform
+
+Music-sync-V-1  
+https://github.com/K3xhav/Music-sync-V-1
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/k3xhav
+Email: keshavthakur8055@gmail.com
